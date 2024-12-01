@@ -1,0 +1,43 @@
+/* Estilos CSS para la página */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #0e9615;
+    color: #fff;
+    padding: 10px;
+}
+
+nav a {
+    color: #d4c92a;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+.service {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.service img {
+    max-width: 25%;
+    height: auto;
+}
+
+.cart-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+/* En styles.css o dentro de una etiqueta <style> en tu HTML */
+img.logo {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px; /* Ejemplo de margen a la derecha del logo */
+}
